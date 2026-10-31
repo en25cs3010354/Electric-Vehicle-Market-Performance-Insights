@@ -145,7 +145,6 @@ The dataset supports analysis of:
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** [EV Market Analytics](https://github.com/en25cs3010712/EV-Market-Analytics)
 - **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/Book1_17934332547890/EVMarketPerformanceInsights?:showVizHome=no&:embed=true)
 - **Tableau Story:** [Open Story](https://public.tableau.com/views/Book1_17934332547890/Story1?:showVizHome=no&:embed=true)
 
